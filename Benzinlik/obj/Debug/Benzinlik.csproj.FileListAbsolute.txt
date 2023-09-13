@@ -1,0 +1,11 @@
+C:\Users\Görkem\Desktop\C#Yeni Projeler\Examples_Study\Benzinlik\bin\Debug\Benzinlik.exe.config
+C:\Users\Görkem\Desktop\C#Yeni Projeler\Examples_Study\Benzinlik\bin\Debug\Benzinlik.exe
+C:\Users\Görkem\Desktop\C#Yeni Projeler\Examples_Study\Benzinlik\bin\Debug\Benzinlik.pdb
+C:\Users\Görkem\Desktop\C#Yeni Projeler\Examples_Study\Benzinlik\obj\Debug\Benzinlik.csproj.AssemblyReference.cache
+C:\Users\Görkem\Desktop\C#Yeni Projeler\Examples_Study\Benzinlik\obj\Debug\Benzinlik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Görkem\Desktop\C#Yeni Projeler\Examples_Study\Benzinlik\obj\Debug\Benzinlik.Properties.Resources.resources
+C:\Users\Görkem\Desktop\C#Yeni Projeler\Examples_Study\Benzinlik\obj\Debug\Benzinlik.csproj.GenerateResource.cache
+C:\Users\Görkem\Desktop\C#Yeni Projeler\Examples_Study\Benzinlik\obj\Debug\Benzinlik.csproj.CoreCompileInputs.cache
+C:\Users\Görkem\Desktop\C#Yeni Projeler\Examples_Study\Benzinlik\obj\Debug\Benzinlik.exe
+C:\Users\Görkem\Desktop\C#Yeni Projeler\Examples_Study\Benzinlik\obj\Debug\Benzinlik.pdb
+C:\Users\Görkem\Desktop\C#Yeni Projeler\Examples_Study\Benzinlik\obj\Debug\Benzinlik.FormGidis1.resources
